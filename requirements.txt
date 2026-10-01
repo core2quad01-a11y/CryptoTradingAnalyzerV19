@@ -1,0 +1,2 @@
+# V19 usa apenas a biblioteca padrão do Python + Tkinter.
+# Não há dependências pip obrigatórias.
